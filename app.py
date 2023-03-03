@@ -37,6 +37,7 @@ demo = gr.Interface(
     outputs="image",
     title="Image Segmentation",
     description = "Please upload an image to see segmentation capabilities of this model",
+    article='developed by Raghuramvarma🤗'
 )
 
 demo.launch()
