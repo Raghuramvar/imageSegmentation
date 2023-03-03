@@ -1,6 +1,6 @@
 ---
 title: Image Segementation
-emoji: 📉
+emoji: 🤗
 colorFrom: gray
 colorTo: pink
 sdk: gradio
