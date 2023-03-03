@@ -35,11 +35,11 @@ demo = gr.Interface(
     query_image, 
     inputs=[gr.Image()], 
     outputs="image",
-    title="Image Segmentation Demo",
+    title="Image Segmentation",
     description = "Please upload an image to see segmentation capabilities of this model",
-    examples=[["dog.jpg"]]
 )
 
 demo.launch()
+
 
 #credit - Gradio docs
